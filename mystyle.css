@@ -1,0 +1,135 @@
+nav {
+    display: block;
+    float: right;
+   
+    
+  }
+.abc
+{
+    background-color: aquamarine;
+    color: blueviolet;
+
+
+} 
+.backimg
+{
+    height: 500px;
+    width:1450px;
+
+}
+.about
+{
+   background-color:orange;
+}
+.download1
+{
+    height: 200px;
+    width: 300px;
+}
+h2
+{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: yellow;
+
+}
+.download2
+{
+    height:200px;
+    width:350px;
+}
+.download3
+{
+    height:200px;
+    width:400px;
+
+
+}
+p
+{
+    font-weight:300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}    
+
+.whatweoffer
+{
+    background-color:bisque;
+}
+.what1
+{
+    height: 200px;
+    width:200px;
+    border-radius: 100px;
+}
+.col-md-4
+{
+    height: 300px;
+    width:200px;
+}
+.text1
+{
+    text-align: center;
+}
+h3
+{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.background
+{
+    position: relative;
+}
+.text-container
+{
+    position: absolute;
+    color: rgb(255, 255, 255);
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(41, 41, 41, 0.8);
+            padding: 0.5rem;
+            text-align: center;
+            font-size: 16px;
+}
+
+.summer1
+{
+    height: 250px;
+    width: 400px;
+}
+.summer
+{
+    background-color:orange;
+
+}
+
+.winter
+{
+    background-color: bisque;
+}
+.winter1
+{
+    height: 250px;
+    width:400px;
+}
+.f1
+{
+    height:300px;
+    width:200px;
+    border-radius: 150px;
+    position: relative;
+
+}
+.featured
+{
+    background-color: orange;
+}
+.footer1
+{
+    background-color: gray;
+    height:200px;
+}
+
+
